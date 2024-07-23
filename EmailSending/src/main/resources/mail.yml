@@ -1,13 +1,1 @@
-
-#spring:
-#  mail:
-#    host: smtp.gmail.com
-#    username: tamilarasi.p2912@gmail.com
-#    password: rivr veop hybx usfu
-#    port: 587
-#    properties:
-#      mail:
-#        smtp:
-#          starttls:
-#            enable: true
-#          auth: true
+application.properties can be configured in yml file
